@@ -1,4 +1,7 @@
 Feeds App is a sample app made with [React Native](https://github.com/facebook/react-native), [Redux](https://github.com/reactjs/react-redux), and [React Native Navigation](https://reactnavigation.org/docs/en/getting-started.html) and [NativeBase](https://nativebase.io/) as the main Libraries at work here.<br />
-This is a simple step-by-step tutorial to get familiar with basic concepts of [Redux](https://github.com/reactjs/react-redux)(used for state management), and [React Native Navigation](https://reactnavigation.org/docs/en/getting-started.html)(used for navigation). This simple App should get you familiar with these Libraries and their use case.
-Clone the app and navigate to the directory of the project. Make sure you have an emulator running.
-run yarn install then react-native run-android --variant=release
+Clone the app and navigate to the directory of the project.
+Make sure you have an emulator running.
+run 
+yarn install 
+then 
+react-native run-android --variant=release
